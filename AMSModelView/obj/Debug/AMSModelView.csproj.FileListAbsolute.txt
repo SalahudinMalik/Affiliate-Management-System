@@ -1,0 +1,5 @@
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSModelView\bin\Debug\AMSModelView.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSModelView\bin\Debug\AMSModelView.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSModelView\obj\Debug\AMSModelView.csprojResolveAssemblyReference.cache
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSModelView\obj\Debug\AMSModelView.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSModelView\obj\Debug\AMSModelView.pdb

@@ -1,0 +1,23 @@
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\Affiliate Management System.exe.config
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\Affiliate Management System.exe
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\Affiliate Management System.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System.csprojResolveAssemblyReference.cache
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Forms\MainWindow.baml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Forms\MainWindow.g.cs
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\App.g.cs
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System_MarkupCompile.cache
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System.g.resources
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate_Management_System.Properties.Resources.resources
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System.csproj.GenerateResource.Cache
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System.exe
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Affiliate Management System.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\AMSEF.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\EntityFramework.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\AMSEF.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\EntityFramework.xml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Forms\SearchForm.baml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\obj\Debug\Forms\SearchForm.g.cs
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\AMSModelView.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\Affiliate Management System\bin\Debug\AMSModelView.pdb

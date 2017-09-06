@@ -1,0 +1,25 @@
+﻿<Window x:Class="Affiliate_Management_System.Forms.SearchForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SearchForm" Background="WhiteSmoke" Height="432.836" Width="674.627">
+    <Grid>
+        <DataGrid x:Name="dgShow" AutoGenerateColumns="False" ItemsSource="{Binding}"  HorizontalAlignment="Left" Margin="283,16,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Height="363" Width="365">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Referral_ID}" Header="Referral ID"/>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Name" />
+                <DataGridTextColumn Binding="{Binding Phone}" Header="Phone" />
+                <DataGridTextColumn Binding="{Binding Address}" Header="Address" />
+                <DataGridTextColumn Binding="{Binding Email}"  Header="Email"/>
+                <DataGridTextColumn Binding="{Binding Comm_Level}" Header="Commission Level" />
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Referral ID:" FontFamily="Time New Roman" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" Height="34" Margin="10,73,0,0" VerticalAlignment="Top" Width="99"/>
+        <Label Content="Search By:" FontFamily="Time New Roman" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" Height="34" Margin="67,34,0,0" VerticalAlignment="Top" Width="99"/>
+        <TextBox x:Name="txtReferral" HorizontalAlignment="Left" Height="34" Margin="114,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="148"/>
+        <Button x:Name="btnSearch" Content="Search" FontSize="20" FontWeight="Bold" FontFamily="Time New Roman" HorizontalAlignment="Left" Height="36" Margin="150,149,0,0" VerticalAlignment="Top" Width="100" Click="btnSearch_Click"/>
+        <Button x:Name="btnShowAll_" Content="All Data" FontSize="20" FontWeight="Bold" FontFamily="Time New Roman" HorizontalAlignment="Left" Height="36" Margin="150,264,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click"/>
+        <Label Content="To show all Data:" FontFamily="Time New Roman" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" Height="34" Margin="10,264,0,0" VerticalAlignment="Top" Width="135"/>
+
+    </Grid>
+</Window>

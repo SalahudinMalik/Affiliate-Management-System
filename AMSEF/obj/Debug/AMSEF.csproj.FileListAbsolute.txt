@@ -1,0 +1,12 @@
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\obj\Debug\AMSEF.csprojResolveAssemblyReference.cache
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\AMSEF.dll.config
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\AMSEF.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\AMSEF.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\EntityFramework.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\EntityFramework.xml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\obj\Debug\AMSEF.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\obj\Debug\AMSEF.pdb
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\AMSModelView.dll
+c:\users\salahudin\documents\visual studio 2013\Projects\Affiliate Management System\AMSEF\bin\Debug\AMSModelView.pdb
